@@ -1,0 +1,18 @@
+.hero-visual {
+  margin-bottom: -14px;
+  background: #f4f4f1;
+}
+
+.hero-intro {
+  min-height: clamp(430px, 56vh, 620px);
+  row-gap: clamp(22px, 3.4vw, 42px);
+  padding-top: clamp(34px, 5vw, 58px);
+}
+
+.hero-intro > .type-title {
+  align-self: end;
+}
+
+.hero-intro .intro-facts {
+  margin-top: clamp(14px, 2vw, 24px);
+}
