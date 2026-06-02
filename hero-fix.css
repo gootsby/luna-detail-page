@@ -62,11 +62,11 @@
 
   .hero-topline {
     gap: 14px;
-    font-size: 13px;
+    font-size: 10px;
   }
 
   .hero-lead {
     margin: 18px 0 0;
-    font-size: 12px;
+    font-size: 10px;
   }
 }
